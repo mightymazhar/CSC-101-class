@@ -22,7 +22,7 @@ int main()
     }
     else
     {
-        cout << "Invalid output" << endl;
+        cout << "Symbol" << endl;
     }
 
     return 0;
